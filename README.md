@@ -28,7 +28,7 @@ An Angular 19 application implementing facial recognition for secure biometric a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/biometric-auth-app.git
+   git clone https://github.com/Ahmedyaseer/Biometric-authentication---Face-Id.git
    cd biometric-auth-app
    ```
 
